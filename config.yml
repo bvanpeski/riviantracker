@@ -1,0 +1,5 @@
+baseURL: http://riviantracker.io/
+languageCode: en-us
+title: Rivian OTA Tracker Site
+
+theme: "PaperMod"
