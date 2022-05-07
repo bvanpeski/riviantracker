@@ -27,7 +27,7 @@ languages:
         languageName: "English"
         weight: 1
         taxonomies:
-          category: categories
+          #category: categories
           tag: tags
           series: series
         menu:
@@ -41,9 +41,9 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
+                #- name: Categories
+                #  url: categories/
+                #  weight: 10
 
 outputs:
     home:
