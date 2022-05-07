@@ -87,7 +87,8 @@ params:
     homeInfoParams:
         Title: "Rivian OTA Tracker"
         Content: >
-            Welcome to the Rivian OTA Tracker! This site tracks the release notes for over-the-air (OTA) software updates for Rivian vehicles.  
+            Welcome to the Rivian OTA Tracker!  
+            This site tracks the release notes for over-the-air (OTA) software updates for Rivian vehicles.  
               
             For Rivian discussions, be sure to check out some of our awesome communities:
               - [Rivian Stories](https://s00n.rivianstories.com/)
