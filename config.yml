@@ -66,7 +66,7 @@ params:
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: false
-    ShowRssButtonInSectionTermList: false
+    ShowRssButtonInSectionTermList: true
     ShowToc: false
     # comments: false
     images: ["papermod-cover.png"]
@@ -92,9 +92,9 @@ params:
             For Rivian discussions, be sure to check out some of our awesome communities:
               * [Rivian Stories](https://s00n.rivianstories.com/)
               * [RivanForums.com](https://rivianforums.com/)
-    socialIcons:
-        - name: RsS
-          url: "index.xml"
+    #socialIcons:
+        #- name: RsS
+        #  url: "index.xml"
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
