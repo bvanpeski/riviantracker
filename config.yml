@@ -93,9 +93,11 @@ params:
             For Rivian discussions, be sure to check out some of our awesome communities:
               - [Rivian Stories](https://s00n.rivianstories.com/)
               - [RivanForums.com](https://rivianforums.com/)
-    #socialIcons:
+    socialIcons:
         #- name: RsS
         #  url: "index.xml"
+        - name: KoFi
+          url: "https://ko-fi.com/brianvp"
 
     #editPost:
         #URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
