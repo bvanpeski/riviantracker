@@ -19,3 +19,8 @@ Hold the far left and far right buttons on the steering wheel for about 15 secon
 Hold the far left button on the steering wheel and the emergency flasher button for about 15 seconds. The entire computer will restart.
 According to Rivian support DO NOT RESET AGAIN FOR AT LEAST 1 HOUR after this procedure. There are multiple systems that may take a bit longer to fully come up after this reset.
 
+## Easter Egg
+1. Tap the 3-dots icon at the bottom of the screen.
+2. Tap the top black bar 5 times.
+3. Tap the 3 dots icon again and hit the new previously hidden button that is now visible.
+
